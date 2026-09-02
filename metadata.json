@@ -1,0 +1,16 @@
+{
+  "name": "Pruebas Field Trace",
+  "description": "App técnica de evidencia de campo con arquitectura offline-first, almacenamiento IndexedDB y sistema de colas de sincronización.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "Offline Storage (IndexedDB)",
+    "Technical Metadata Overlay",
+    "Firebase Cloud Firestore Sync",
+    "Template Engine"
+  ],
+  "buildRevision": "android-camera-gps-gallery-fix"
+}
